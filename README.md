@@ -8,7 +8,7 @@ YOLO V5
 
 MODEL ARCHITECTURE
 
-Yolo v5 is a single--stage object detector.
+Yolo v5 is a single-stage object detector.
 
 It has three important parts
     Model backbone
