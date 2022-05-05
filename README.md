@@ -46,3 +46,5 @@ COST FUNCTION
     In YOLO family, the compound loss is calculated based on objectness score, class probability score and bounding box regression score.
     
     Ultralytics have used Binary Cross-Entropy with Logits Loss function from PyTorch for loss calculation of class probability and object score.
+    
+[If unable to view code click here](https://nbviewer.org/github/chandrareddy7/Helmet-Detection-using-YOLOv5/blob/main/Helmet_detection_using_YOLOv5.ipynb)
